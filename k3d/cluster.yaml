@@ -1,1 +1,4 @@
-// Placeholder content for cluster.yaml
+apiVersion: k3d.io/v1alpha2
+kind: Simple
+metadata:
+  name: products-cluster

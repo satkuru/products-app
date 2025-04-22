@@ -1,1 +1,5 @@
-// Placeholder content for application.yml
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/products

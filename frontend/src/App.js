@@ -1,1 +1,1 @@
-// Placeholder content for src/App.js
+import React from "react"; function App() { return <div>Welcome to Products App</div>; } export default App;

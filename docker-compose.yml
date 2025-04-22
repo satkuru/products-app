@@ -1,1 +1,6 @@
-// Placeholder content for docker-compose.yml
+version: "3.8"
+services:
+  backend:
+    build: ./backend
+  frontend:
+    build: ./frontend
